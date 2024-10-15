@@ -1,0 +1,13 @@
+{
+  "name": "image-resize-electron",
+  "productName" : "Image Resizer",
+  "version": "1.0.0",
+  "description": "App to resize image dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KuroNeko717",
+  "license": "ISC"
+}
